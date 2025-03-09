@@ -24,4 +24,4 @@ QTrack este o aplicație web simplă pentru gestionarea sarcinilor definite de u
 
 ✅ Persistența datelor în SQLite folosind EF Core
 
-✅ Interfață curată și ușor de utilizat
+✅ Interfață simplă și ușor de utilizat
